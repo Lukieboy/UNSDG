@@ -227,24 +227,24 @@ function finish(){
 
 op1.addEventListener('click', ()=>{
     resetColor();
-    op1.style.backgroundColor="rgb(168, 254, 234)";
+    op1.style.backgroundColor="rgb(168, 253, 254)";
     chosen=1;
 })
 
 op2.addEventListener('click', ()=>{
     resetColor();
-    op2.style.backgroundColor="rgb(168, 254, 234)";
+    op2.style.backgroundColor="rgb(168, 253, 254)";
     chosen=2;
 })
 
 op3.addEventListener('click', ()=>{
     resetColor();
-    op3.style.backgroundColor="rgb(168, 254, 234)";
+    op3.style.backgroundColor="rgb(168, 253, 254)";
     chosen=3;
 })
 op4.addEventListener('click', ()=>{
     resetColor();
-    op4.style.backgroundColor="rgb(168, 254, 234)";
+    op4.style.backgroundColor="rgb(168, 253, 254)";
     chosen=4;
 })
 
