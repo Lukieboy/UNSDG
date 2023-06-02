@@ -56,7 +56,7 @@ op1.addEventListener('click', ()=>{
 
 op2.addEventListener('click', ()=>{
     resetColor();
-    op2.style.backgroundColor="rgb(168, 254, 195, 0.8))";
+    op2.style.backgroundColor="rgb(168, 254, 195, 0.8)";
     chosen=2;
 })
 
