@@ -50,24 +50,24 @@ function finish(){
 
 op1.addEventListener('click', ()=>{
     resetColor();
-    op1.style.backgroundColor="rgb(168, 254, 195) 0.8)";
+    op1.style.backgroundColor="rgb(168, 254, 195, 0.8)";
     chosen=1;
 })
 
 op2.addEventListener('click', ()=>{
     resetColor();
-    op2.style.backgroundColor="rgb(168, 254, 195) 0.8))";
+    op2.style.backgroundColor="rgb(168, 254, 195, 0.8))";
     chosen=2;
 })
 
 op3.addEventListener('click', ()=>{
     resetColor();
-    op3.style.backgroundColor="rgb(168, 254, 195) 0.8)";
+    op3.style.backgroundColor="rgb(168, 254, 195, 0.8)";
     chosen=3;
 })
 op4.addEventListener('click', ()=>{
     resetColor();
-    op4.style.backgroundColor="rgb(168, 254, 195) 0.8)";
+    op4.style.backgroundColor="rgb(168, 254, 195, 0.8)";
     chosen=4;
 })
 
