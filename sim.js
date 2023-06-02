@@ -2924,7 +2924,7 @@ let firstry=0;
 
 let list = [
   [
-    "Which gas is primarily responsible for causing global warming?",
+    "Which gas is mostly responsible for global warming",
     "Carbon Dioxide",
     "Oxygen",
     "Nitrogen",
@@ -2932,7 +2932,7 @@ let list = [
     1
   ],
   [
-    "What is the main source of human-generated carbon dioxide emissions?",
+    "What is the main source of Carbon Dioxide emissions that comes from humans?",
     "Transportation",
     "Electricity generation",
     "Deforestation",
@@ -2940,7 +2940,7 @@ let list = [
     2
   ],
   [
-    "Which of the following is a renewable source of energy?",
+    "Which of these is a form of renewable energy?",
     "Coal",
     "Natural Gas",
     "Nuclear",
@@ -2948,7 +2948,7 @@ let list = [
     4
   ],
   [
-    "What is the term for the gradual increase in the Earth's average temperature due to human activities?",
+    "Which term is the gradual increase of the Earth's average temperature due to human activities?",
     "Global Warming",
     "Climate Change",
     "Ozone Depletion",
@@ -2958,10 +2958,10 @@ let list = [
   [
     "What is the main cause of sea-level rise?",
     "Melting glaciers",
-    "Thermal expansion of seawater",
-    "Icebergs melting",
+    "More rocks",
+    "Landslides",
     "Increased precipitation",
-    2
+    1
   ],
   [
     "What is the largest contributor to deforestation worldwide?",
@@ -2972,7 +2972,7 @@ let list = [
     1
   ],
   [
-    "Which sector contributes the most to greenhouse gas emissions?",
+    "Which of the following contributes the most to greenhouse gas emissions?",
     "Agriculture",
     "Industry",
     "Transportation",
@@ -2980,7 +2980,7 @@ let list = [
     3
   ],
   [
-    "What is the phenomenon where warmer temperatures trap pollutants near the Earth's surface?",
+    "What is it called when warmer temperatures trap pollutants near the Earth's surface?",
     "Smog",
     "Haze",
     "Fog",
@@ -2988,7 +2988,7 @@ let list = [
     1
   ],
   [
-    "Which country is the largest emitter of carbon dioxide globally?",
+    "Which country is the largest emitter of carbon dioxide?",
     "China",
     "United States",
     "India",
