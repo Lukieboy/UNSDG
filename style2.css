@@ -14,7 +14,7 @@
  }
 
  footer{
-     background-color: rgba(4, 34, 118, 0.777);
+     background-color: rgba(4, 118, 57, 0.777);
      display: block;
      /* width: 100vw; */
      padding: 20px;
@@ -473,6 +473,8 @@ footer{color:white;}
 
 .slidecontainer input{margin-left:130px !important;}
 
-.lastquiz{background-color:rgba(50, 90, 73, 0.801);}
+.lastquiz{background-color:rgba(50, 90, 73, 0.666);}
 
 .setting h3{padding-top:8px;}
+
+.footer-text{margin:0px;}
