@@ -14,7 +14,7 @@
  }
 
  footer{
-     background-color: rgba(4, 34, 118, 0.777);
+     background-color: rgba(118, 4, 44, 0.777);
      display: block;
      /* width: 100vw; */
      padding: 20px;
@@ -410,3 +410,5 @@ footer{color:white;}
 .up{padding-top:20px;}
 
 .events{width:80%;margin:auto !important;}
+
+.footer-text{margin:0px;}
