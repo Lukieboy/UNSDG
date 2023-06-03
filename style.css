@@ -120,7 +120,7 @@ img{
     /* -webkit-text-fill-color: transparent; */
   }
   .svg rect {
-    fill: rgb(142, 211, 236);
+    fill: rgb(134, 223, 255);
     opacity:1;
   }
   .svg > rect {
@@ -330,12 +330,6 @@ button{
     margin-left:auto;
 }
 
-nothing{
-    color: rgb(52, 52, 252);
-    color:rgb(141, 184, 252);
-
-}
-
 button{
     /* font-family:'Courier New', Courier, monospace; */
     border:none !important;
@@ -408,3 +402,5 @@ footer{color:white;}
 .setting h3{padding-top:8px;}
 
 /* .arrow svg{stroke:blue !important;} */
+
+.footer-text{margin:0px;}
